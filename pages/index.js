@@ -128,7 +128,7 @@ export default function Home() {
         </p>
 
         <h2 id="pourquoi" className={styles.subtitle}>
-          Pourquoir un testeur de fichier CNAF&nbsp;?
+          Pourquoi un testeur de fichier CNAF&nbsp;?
         </h2>
 
         <p className={styles.text}>
